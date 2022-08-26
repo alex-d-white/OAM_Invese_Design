@@ -5,7 +5,7 @@ This repo contains sample code to inverse design waveguide based orbital angular
 First, fork the respository https://github.com/stanfordnqp/spins-b
 
 To run this code, we must first add the ability for SPINS to import custom overlaps.
-To do this follow the instructions below before installing spins into your VENV.
+To do this follow the instructions below before installing spins into your enviornment.
 
 
 -------------------------------------------------------------------------------------
