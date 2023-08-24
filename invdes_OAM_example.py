@@ -239,7 +239,7 @@ import numpy as np
 from spins import goos
 from spins.goos_sim import maxwell
 from spins.invdes.problem_graph import optplan
-import spins.special
+import compat_levelset.py
 
 
 def main(save_folder: str,
